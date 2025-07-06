@@ -1,1 +1,13 @@
-# task-6
+The objective of this task was to understand the characteristics of strong passwords and evaluate their strength using online password-checking tools. I used passwordmeter.com to test various passwords and analyze the results based on complexity and score feedback. The activity aimed to highlight the importance of password security in protecting against common cyber threats.
+
+I began by creating multiple passwords with different levels of complexity. The passwords ranged from simple combinations like hello123 to more complex formats such as Kr!T#2025Wq. I ensured to vary the length, and included different combinations of lowercase letters, uppercase letters, numbers, and special characters. This helped illustrate how each element contributes to password strength.
+
+Next, I tested each password using the Password Meter tool. The tool evaluated the passwords and assigned a strength percentage along with feedback. For instance, hello123 received a score of 37%, indicating a weak password due to lack of complexity. krithika2025 recieved a score of 56%, indicating a good password. And Kr!thi2025 Kr!T#2025Wq received a score of 99% and 100%, respectively,, marked as very strong because it met most security criteria like mixed character types and sufficient length.
+
+Based on the tool’s analysis, I identified several best practices for creating strong passwords. These include using at least 12 characters, mixing uppercase and lowercase letters, including numbers, and incorporating special symbols. It's also important to avoid dictionary words, names, and predictable patterns. I noted that placing numbers or symbols in the middle of the password rather than at the end also improves strength.
+
+From this evaluation, I learned several tips. Password strength is not just about length, but about diversity in characters and unpredictability. Using random and complex combinations greatly increases resistance against attacks.
+
+Additionally, I researched common password attacks. Brute force attacks try every possible combination of characters until the correct one is found, making short and simple passwords easy to crack. Dictionary attacks use a list of common words and combinations to guess passwords, which is why real words or names make passwords more vulnerable.
+
+In summary, password complexity plays a crucial role in digital security. A strong password significantly reduces the chances of unauthorized access. This task reinforced the importance of adopting secure password practices and understanding the mechanics of how weak credentials are exploited. By implementing what I’ve learned, I can now create and recommend passwords that are far more resistant to modern attack techniques.
